@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Auurag Anand</h1>
+<h1 align="center">Hi 👋, I'm Anurag Anand</h1>
 <h3 align="center">Competitive Programmer and Backend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuraganand198&label=Profile%20views&color=0e75b6&style=flat" alt="anuraganand198" /> </p>
