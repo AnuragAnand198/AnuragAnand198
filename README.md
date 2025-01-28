@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats-hazel-sigma.vercel.app?user=anuraganand198&" alt="anuraganand198" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-hazel-sigma.vercel.app?user=anuraganand198" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-hazel-sigma.vercel.app/demo/preview.php?user=" alt="GitHub Streak" /></a>
