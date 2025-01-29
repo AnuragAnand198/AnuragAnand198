@@ -39,7 +39,7 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraganand198&show_icons=true&locale=en&layout=compact" alt="anuraganand198" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraganand198&show_icons=true&locale=en" alt="anuraganand198" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraganand198&show_icons=true&locale=en" alt="anuraganand198" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats-hazel-sigma.vercel.app/demo/preview.php?user=&" alt="anuraganand198" /></p>
 
