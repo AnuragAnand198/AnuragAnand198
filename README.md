@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Django, React**
 
-- 👨‍💻 All of my projects are available at [https://anuraganand198.pythonanywhere.com/](https://anuraganand198.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [At PthonAnyWhere](https://anuraganand198.pythonanywhere.com/)
 
 - 📫 How to reach me **anuraganand198@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/3IMduym](http://bit.ly/3IMduym)
+- 📄 Know about my experiences [My Resume](http://bit.ly/3IMduym)
 
 <!--
 <h3 align="left">Connect with me:</h3>
