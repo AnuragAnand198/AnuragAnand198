@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anuraganand198@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/4jAdEqI](http://bit.ly/4jAdEqI)
+- 📄 Know about my experiences [http://bit.ly/3IMduym](http://bit.ly/3IMduym)
 
 <!--
 <h3 align="left">Connect with me:</h3>
